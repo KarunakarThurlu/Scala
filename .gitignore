@@ -1,0 +1,7 @@
+.bloop
+.gitignore
+.bsp
+.idea
+.metals
+.vscode
+target
